@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+# Own exclude folders
+downloads
+tmp
+.DS_Store
+final
